@@ -1,12 +1,16 @@
 {
   "tasks": [
     {
-      "id": "913b6ad0-1119-4056-9d1b-7beea18b8a48",
-      "text": "this needs to work ok?"
+      "id": "bb5a8e99-b7bd-4af8-9cb8-1ab8e8235ba2",
+      "text": "watching tv"
     },
     {
-      "id": "9f910550-a3f6-422b-9823-c351297673f3",
-      "text": "learning by doing and watching"
+      "id": "e3429431-0417-4605-b7e6-53bbc674cc2f",
+      "text": "learning next.js"
+    },
+    {
+      "id": "6cdab542-18ab-4673-b750-0aab0fc74e23",
+      "text": "hello world"
     }
   ]
 }
